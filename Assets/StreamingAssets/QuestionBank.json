@@ -1,0 +1,277 @@
+[
+  {
+    "nombreDificultad": "Super Easy",
+    "preguntas": [
+      {
+        "enunciado": "Quien es el padre del Rock en Costa Rica?",
+        "respuestas": [
+          { "texto": "Bruno Porter" },
+          { "texto": "Victor Carvajal" },
+          { "texto": "Jose Capmany" },
+          { "texto": "Los Ajenos" }
+        ],
+        "respuestaCorrecta": 2
+      },
+      {
+        "enunciado": "Con que mar limita Costa Rica por el este?",
+        "respuestas": [
+          { "texto": "Mar Caribe" },
+          { "texto": "Mar Mediterraneo" },
+          { "texto": "Mar Muerto" },
+          { "texto": "Mar Arabigo" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "En que ciudad se rinde William Walker?",
+        "respuestas": [
+          { "texto": "Liberia" },
+          { "texto": "Santa Rosa" },
+          { "texto": "San Jose" },
+          { "texto": "Rivas" }
+        ],
+        "respuestaCorrecta": 3
+      },
+      {
+        "enunciado": "En que provincia nace Edgar Silva?",
+        "respuestas": [
+          { "texto": "Limon" },
+          { "texto": "Guanacaste" },
+          { "texto": "Alajuela" },
+          { "texto": "Heredia" }
+        ],
+        "respuestaCorrecta": 1
+      },
+      {
+        "enunciado": "Que significa FIA en Costa Rica?",
+        "respuestas": [
+          { "texto": "Festival Internacional de Arte" },
+          { "texto": "Federacion Internacional de Arte" },
+          { "texto": "Festival Intercultural de las Americas" },
+          { "texto": "Federacion Internacional de las Americas" }
+        ],
+        "respuestaCorrecta": 0
+      }
+    ]
+  },
+  {
+    "nombreDificultad": "Easy",
+    "preguntas": [
+      {
+        "enunciado": "Donde se inventaron los fuegos artificiales?",
+        "respuestas": [
+          { "texto": "Peru" },
+          { "texto": "Estados Unidos" },
+          { "texto": "Japon" },
+          { "texto": "China" }
+        ],
+        "respuestaCorrecta": 3
+      },
+      {
+        "enunciado": "En que ciudad se inventa la Coca Cola?",
+        "respuestas": [
+          { "texto": "Washington" },
+          { "texto": "San Jose" },
+          { "texto": "Atlanta" },
+          { "texto": "San Francisco" }
+        ],
+        "respuestaCorrecta": 2
+      },
+      {
+        "enunciado": "Cual fue el primer presidente negro de Sudafrica?",
+        "respuestas": [
+          { "texto": "Nelson Mandela" },
+          { "texto": "Luis Arce Catacora" },
+          { "texto": "Gabriel Boric" },
+          { "texto": "Francois Duvalier" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "A que grupo terrorista se le atribuye el ataque a las torres gemelas en NY?",
+        "respuestas": [
+          { "texto": "Al Shabaab" },
+          { "texto": "ISIS" },
+          { "texto": "FARC" },
+          { "texto": "Al Quaeda" }
+        ],
+        "respuestaCorrecta": 3
+      },
+      {
+        "enunciado": "Quien es la princesa del Pop?",
+        "respuestas": [
+          { "texto": "Madonna" },
+          { "texto": "Britney Spears" },
+          { "texto": "Celine Dion" },
+          { "texto": "Shakira" }
+        ],
+        "respuestaCorrecta": 1
+      }
+    ]
+  },
+  {
+    "nombreDificultad": "Medium",
+    "preguntas": [
+      {
+        "enunciado": "Cual es la jugada final del ajedrez?",
+        "respuestas": [
+          { "texto": "Jaque" },
+          { "texto": "Jaque Mate" },
+          { "texto": "Tablas" },
+          { "texto": "Mate" }
+        ],
+        "respuestaCorrecta": 1
+      },
+      {
+        "enunciado": "Cuantas son las leyes de Newton?",
+        "respuestas": [
+          { "texto": "3" },
+          { "texto": "2" },
+          { "texto": "1" },
+          { "texto": "4" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "Cual es la primer costarricense en llegar al #1 en la lista de musica bailable en Billboard?",
+        "respuestas": [
+          { "texto": "Chavela Vargas" },
+          { "texto": "Fatima Pinto" },
+          { "texto": "Melissa Mora" },
+          { "texto": "Debi Nova" }
+        ],
+        "respuestaCorrecta": 3
+      },
+      {
+        "enunciado": "Cual es la provincia de las flores en Costa Rica?",
+        "respuestas": [
+          { "texto": "Limon" },
+          { "texto": "Guanacaste" },
+          { "texto": "Alajuela" },
+          { "texto": "Heredia" }
+        ],
+        "respuestaCorrecta": 3
+      },
+      {
+        "enunciado": "Como murio Selena?",
+        "respuestas": [
+          { "texto": "Infarto" },
+          { "texto": "Accidente de transito" },
+          { "texto": "Asesinada" },
+          { "texto": "Cancer" }
+        ],
+        "respuestaCorrecta": 2
+      }
+    ]
+  },
+  {
+    "nombreDificultad": "Hard",
+    "preguntas": [
+      {
+        "enunciado": "Termino para ausencia de materia en el espacio.",
+        "respuestas": [
+          { "texto": "Limpio" },
+          { "texto": "Nada" },
+          { "texto": "Vacio" },
+          { "texto": "Incompleto" }
+        ],
+        "respuestaCorrecta": 2
+      },
+      {
+        "enunciado": "En que oceano se encuentra la Isla de Pascua?",
+        "respuestas": [
+          { "texto": "Oceano Pacifico" },
+          { "texto": "Oceano Atlantico" },
+          { "texto": "Oceano Indico" },
+          { "texto": "Oceano Artico" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "Como murio Socrates?",
+        "respuestas": [
+          { "texto": "Envenenado" },
+          { "texto": "Enfermedad" },
+          { "texto": "Quemado" },
+          { "texto": "Desaparecido" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "Cuantos jugadores tiene un equipo de baloncesto?",
+        "respuestas": [
+          { "texto": "4" },
+          { "texto": "5" },
+          { "texto": "6" },
+          { "texto": "7" }
+        ],
+        "respuestaCorrecta": 1
+      },
+      {
+        "enunciado": "Cual es el planeta mas cercano a la tierra?",
+        "respuestas": [
+          { "texto": "Marte" },
+          { "texto": "Mercurio" },
+          { "texto": "Venus" },
+          { "texto": "Jupiter" }
+        ],
+        "respuestaCorrecta": 2
+      }
+    ]
+  },
+  {
+    "nombreDificultad": "Extra Hard",
+    "preguntas": [
+      {
+        "enunciado": "Cual es la capital de Brasil?",
+        "respuestas": [
+          { "texto": "Beio Horizonte" },
+          { "texto": "Sao Paulo" },
+          { "texto": "Rio de Janeiro" },
+          { "texto": "Brasilia" }
+        ],
+        "respuestaCorrecta": 3
+      },
+      {
+        "enunciado": "Donde esta el volcan mas alto del mundo?",
+        "respuestas": [
+          { "texto": "Chile" },
+          { "texto": "India" },
+          { "texto": "Pakistan" },
+          { "texto": "Argentina" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "Cuantos cuadros tiene un tablero de ajedrez?",
+        "respuestas": [
+          { "texto": "64" },
+          { "texto": "72" },
+          { "texto": "48" },
+          { "texto": "96" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "Cuantas sinfonias compuso Beethoven?",
+        "respuestas": [
+          { "texto": "11" },
+          { "texto": "9" },
+          { "texto": "13" },
+          { "texto": "8" }
+        ],
+        "respuestaCorrecta": 1
+      },
+      {
+        "enunciado": "En que ciudad de España se encuentra el Museo del Prado?",
+        "respuestas": [
+          { "texto": "Barcelona" },
+          { "texto": "Puebla" },
+          { "texto": "Galicia" },
+          { "texto": "Madrid" }
+        ],
+        "respuestaCorrecta": 3
+      }
+    ]
+  }
+]
