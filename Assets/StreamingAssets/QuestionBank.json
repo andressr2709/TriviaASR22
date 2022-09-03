@@ -3,7 +3,7 @@
     "nombreDificultad": "Super Easy",
     "preguntas": [
       {
-        "enunciado": "Quien es el padre del Rock en Costa Rica?",
+        "enunciado": "¿Quién es el padre del Rock en Costa Rica?",
         "respuestas": [
           { "texto": "Bruno Porter" },
           { "texto": "Victor Carvajal" },
@@ -13,7 +13,7 @@
         "respuestaCorrecta": 2
       },
       {
-        "enunciado": "Con que mar limita Costa Rica por el este?",
+        "enunciado": "¿Con qué mar limita Costa Rica por el este?",
         "respuestas": [
           { "texto": "Mar Caribe" },
           { "texto": "Mar Mediterraneo" },
@@ -23,19 +23,19 @@
         "respuestaCorrecta": 0
       },
       {
-        "enunciado": "En que ciudad se rinde William Walker?",
+        "enunciado": "¿En qué ciudad se rinde William Walker?",
         "respuestas": [
           { "texto": "Liberia" },
           { "texto": "Santa Rosa" },
-          { "texto": "San Jose" },
+          { "texto": "San José" },
           { "texto": "Rivas" }
         ],
         "respuestaCorrecta": 3
       },
       {
-        "enunciado": "En que provincia nace Edgar Silva?",
+        "enunciado": "¿En qué provincia nace Edgar Silva?",
         "respuestas": [
-          { "texto": "Limon" },
+          { "texto": "Limón" },
           { "texto": "Guanacaste" },
           { "texto": "Alajuela" },
           { "texto": "Heredia" }
@@ -43,12 +43,12 @@
         "respuestaCorrecta": 1
       },
       {
-        "enunciado": "Que significa FIA en Costa Rica?",
+        "enunciado": "¿Qué significa FIA en Costa Rica?",
         "respuestas": [
           { "texto": "Festival Internacional de Arte" },
           { "texto": "Federacion Internacional de Arte" },
-          { "texto": "Festival Intercultural de las Americas" },
-          { "texto": "Federacion Internacional de las Americas" }
+          { "texto": "Festival Intercultural de las Américas" },
+          { "texto": "Federación Internacional de las Américas" }
         ],
         "respuestaCorrecta": 0
       }
@@ -58,17 +58,17 @@
     "nombreDificultad": "Easy",
     "preguntas": [
       {
-        "enunciado": "Donde se inventaron los fuegos artificiales?",
+        "enunciado": "¿Dónde se inventaron los fuegos artificiales?",
         "respuestas": [
-          { "texto": "Peru" },
+          { "texto": "Perú" },
           { "texto": "Estados Unidos" },
-          { "texto": "Japon" },
+          { "texto": "Japón" },
           { "texto": "China" }
         ],
         "respuestaCorrecta": 3
       },
       {
-        "enunciado": "En que ciudad se inventa la Coca Cola?",
+        "enunciado": "¿En qué ciudad se inventa la Coca Cola?",
         "respuestas": [
           { "texto": "Washington" },
           { "texto": "San Jose" },
@@ -78,7 +78,7 @@
         "respuestaCorrecta": 2
       },
       {
-        "enunciado": "Cual fue el primer presidente negro de Sudafrica?",
+        "enunciado": "¿Cuál fue el primer presidente negro de Sudafrica?",
         "respuestas": [
           { "texto": "Nelson Mandela" },
           { "texto": "Luis Arce Catacora" },
@@ -88,7 +88,7 @@
         "respuestaCorrecta": 0
       },
       {
-        "enunciado": "A que grupo terrorista se le atribuye el ataque a las torres gemelas en NY?",
+        "enunciado": "¿A qué grupo terrorista se le atribuye el ataque a las torres gemelas en NY?",
         "respuestas": [
           { "texto": "Al Shabaab" },
           { "texto": "ISIS" },
@@ -98,7 +98,7 @@
         "respuestaCorrecta": 3
       },
       {
-        "enunciado": "Quien es la princesa del Pop?",
+        "enunciado": "¿Quién es la princesa del Pop?",
         "respuestas": [
           { "texto": "Madonna" },
           { "texto": "Britney Spears" },
@@ -113,7 +113,7 @@
     "nombreDificultad": "Medium",
     "preguntas": [
       {
-        "enunciado": "Cual es la jugada final del ajedrez?",
+        "enunciado": "¿Cuál es la jugada final del ajedrez?",
         "respuestas": [
           { "texto": "Jaque" },
           { "texto": "Jaque Mate" },
@@ -123,7 +123,7 @@
         "respuestaCorrecta": 1
       },
       {
-        "enunciado": "Cuantas son las leyes de Newton?",
+        "enunciado": "¿Cuántas son las leyes de Newton?",
         "respuestas": [
           { "texto": "3" },
           { "texto": "2" },
@@ -133,7 +133,7 @@
         "respuestaCorrecta": 0
       },
       {
-        "enunciado": "Cual es la primer costarricense en llegar al #1 en la lista de musica bailable en Billboard?",
+        "enunciado": "¿Cuál es la primer costarricense en llegar al #1 en la lista de musica bailable en Billboard?",
         "respuestas": [
           { "texto": "Chavela Vargas" },
           { "texto": "Fatima Pinto" },
@@ -143,9 +143,9 @@
         "respuestaCorrecta": 3
       },
       {
-        "enunciado": "Cual es la provincia de las flores en Costa Rica?",
+        "enunciado": "¿Cuál es la provincia de las flores en Costa Rica?",
         "respuestas": [
-          { "texto": "Limon" },
+          { "texto": "Limón" },
           { "texto": "Guanacaste" },
           { "texto": "Alajuela" },
           { "texto": "Heredia" }
@@ -153,12 +153,12 @@
         "respuestaCorrecta": 3
       },
       {
-        "enunciado": "Como murio Selena?",
+        "enunciado": "¿Cómo murió Selena?",
         "respuestas": [
           { "texto": "Infarto" },
-          { "texto": "Accidente de transito" },
+          { "texto": "Accidente de tránsito" },
           { "texto": "Asesinada" },
-          { "texto": "Cancer" }
+          { "texto": "Cáncer" }
         ],
         "respuestaCorrecta": 2
       }
@@ -168,27 +168,27 @@
     "nombreDificultad": "Hard",
     "preguntas": [
       {
-        "enunciado": "Termino para ausencia de materia en el espacio.",
+        "enunciado": "Término para ausencia de materia en el espacio.",
         "respuestas": [
           { "texto": "Limpio" },
           { "texto": "Nada" },
-          { "texto": "Vacio" },
+          { "texto": "Vacío" },
           { "texto": "Incompleto" }
         ],
         "respuestaCorrecta": 2
       },
       {
-        "enunciado": "En que oceano se encuentra la Isla de Pascua?",
+        "enunciado": "¿En qué océano se encuentra la Isla de Pascua?",
         "respuestas": [
-          { "texto": "Oceano Pacifico" },
-          { "texto": "Oceano Atlantico" },
-          { "texto": "Oceano Indico" },
-          { "texto": "Oceano Artico" }
+          { "texto": "Oceano Pacífico" },
+          { "texto": "Oceano Atlántico" },
+          { "texto": "Oceano Índico" },
+          { "texto": "Oceano Ártico" }
         ],
         "respuestaCorrecta": 0
       },
       {
-        "enunciado": "Como murio Socrates?",
+        "enunciado": "¿Cómo murió Sócrates?",
         "respuestas": [
           { "texto": "Envenenado" },
           { "texto": "Enfermedad" },
@@ -198,7 +198,7 @@
         "respuestaCorrecta": 0
       },
       {
-        "enunciado": "Cuantos jugadores tiene un equipo de baloncesto?",
+        "enunciado": "¿Cuántos jugadores tiene un equipo de baloncesto?",
         "respuestas": [
           { "texto": "4" },
           { "texto": "5" },
@@ -208,12 +208,12 @@
         "respuestaCorrecta": 1
       },
       {
-        "enunciado": "Cual es el planeta mas cercano a la tierra?",
+        "enunciado": "¿Cuál es el planeta mas cercano a la tierra?",
         "respuestas": [
           { "texto": "Marte" },
           { "texto": "Mercurio" },
           { "texto": "Venus" },
-          { "texto": "Jupiter" }
+          { "texto": "Júpiter" }
         ],
         "respuestaCorrecta": 2
       }
@@ -223,7 +223,7 @@
     "nombreDificultad": "Extra Hard",
     "preguntas": [
       {
-        "enunciado": "Cual es la capital de Brasil?",
+        "enunciado": "¿Cuál es la capital de Brasil?",
         "respuestas": [
           { "texto": "Beio Horizonte" },
           { "texto": "Sao Paulo" },
@@ -233,7 +233,7 @@
         "respuestaCorrecta": 3
       },
       {
-        "enunciado": "Donde esta el volcan mas alto del mundo?",
+        "enunciado": "¿Dónde esta el volcán mas alto del mundo?",
         "respuestas": [
           { "texto": "Chile" },
           { "texto": "India" },
@@ -243,7 +243,7 @@
         "respuestaCorrecta": 0
       },
       {
-        "enunciado": "Cuantos cuadros tiene un tablero de ajedrez?",
+        "enunciado": "¿Cuántos cuadros tiene un tablero de ajedrez?",
         "respuestas": [
           { "texto": "64" },
           { "texto": "72" },
@@ -253,7 +253,7 @@
         "respuestaCorrecta": 0
       },
       {
-        "enunciado": "Cuantas sinfonias compuso Beethoven?",
+        "enunciado": "¿Cuántas sinfonías compuso Beethoven?",
         "respuestas": [
           { "texto": "11" },
           { "texto": "9" },
@@ -263,7 +263,7 @@
         "respuestaCorrecta": 1
       },
       {
-        "enunciado": "En que ciudad de España se encuentra el Museo del Prado?",
+        "enunciado": "¿En qué ciudad de España se encuentra el Museo del Prado?",
         "respuestas": [
           { "texto": "Barcelona" },
           { "texto": "Puebla" },
